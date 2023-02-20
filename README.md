@@ -1,5 +1,14 @@
 # Hi, Welcome to My Github Portfolio
 
+<p
+  align="center"
+>
+  <img
+    height="300em"
+    src="./imgs/cool-background.png"
+  >
+</p>
+
 <!-- <p
  align="center"
 >
