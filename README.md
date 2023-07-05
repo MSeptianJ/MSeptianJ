@@ -35,6 +35,19 @@
   </a>
 </p> -->
 
+---
+
+## About Me
+
+- I'm a web programmer with a few kind of hobby
+- I mainly use javascript specifically react.js
+- recently i start learning about object detection for my final end task on my university
+- i can use python ... kinda
+- One of my hobby is photography tho i am lazy in editing
+- right now i am mainly focus on finishing my university
+
+---
+
 ## Github Statistics
 
 <p
@@ -49,12 +62,3 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSeptianJ&count_private=true&show_icons=true&theme=&bg_color=00000000&text_color=b7b7b7&layout=compact"
   >
 </p>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Project for University
-- 🌱 I’m currently learning Web Development, specificaly React.js and Next.js
-- 👯 I’m looking to collaborate on building my billion dollars start up
-- 💬 Ask me about Web Development
-- 📫 How to reach me: mseptianjaelani@gmail.com
-- ⚡ Fun fact: I like Reading Light Novel ~~I am not a Weaaboo~~
