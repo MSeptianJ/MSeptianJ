@@ -1,5 +1,3 @@
-# Hi, Welcome to My Github Portfolio
-
 <p
   align="center"
 >
@@ -35,15 +33,13 @@
   </a>
 </p> -->
 
----
-
 ## About Me
 
 - I'm a web programmer with a few kind of hobby
 - I mainly use javascript specifically react.js
 - recently i start learning about object detection for my final end task on my university
 - i can use python ... kinda
-- One of my hobby is photography tho i am lazy in editing
+- One of my hobby is photography, especially cosplayer portrait
 - right now i am mainly focus on finishing my university
 
 ---
