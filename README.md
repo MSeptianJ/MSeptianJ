@@ -4,9 +4,8 @@
   align="center"
 >
   <img
-    height="300em"
     src="./imgs/Banner.jpg"
-    style="width: 100%; height: auto; object-fit:contain"
+    style="width: 100%; height: auto; object-fit:cover"
   >
 </p>
 
