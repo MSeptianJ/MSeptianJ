@@ -5,7 +5,8 @@
 >
   <img
     height="300em"
-    src="./imgs/cool-background.png"
+    src="./imgs/Banner.jpg"
+    style="width: 100%; height: auto; object-fit:contain"
   >
 </p>
 
