@@ -35,12 +35,12 @@
 
 ## About Me
 
-- I'm a web programmer with a few kind of hobby
-- I mainly use javascript specifically react.js
-- recently i start learning about object detection for my final end task on my university
-- i can use python ... kinda
-- One of my hobby is photography, especially cosplayer portrait
-- right now i am mainly focus on finishing my university
+- I'm a frontend web developer
+- I use javascript/typescript
+- Reactjs, Firebase, Tailwind, Node
+
+
+_Sometimes i do photoshoot for a hobby_
 
 ---
 
